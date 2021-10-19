@@ -1,5 +1,5 @@
 test.cucumber:
-	nyc cucumber-js -f json:./output/results.json
+	npx nyc cucumber-js -f json:./output/results.json
 
 test.report: test.cucumber
 	node index.js

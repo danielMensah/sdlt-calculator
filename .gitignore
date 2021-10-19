@@ -24,4 +24,4 @@ yarn-error.log*
 
 output
 .nyc_output
-.idea
+.idea/

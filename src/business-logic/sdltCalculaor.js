@@ -1,7 +1,7 @@
-const standBuyer = [ 0, 0.02, 0.05, 0.05, 0.10, 0.12 ];
-const firstBuyer = [ 0, 0, 0, 0.05, 0.10, 0.12 ];
-const secBuyer = [ 0.03, 0.05, 0.08, 0.08, 0.13, 0.15 ];
-const taxBand = [ 0, 125000, 250000, 300000, 925000, 1500000, Infinity ];
+const standBuyer = [ 0, 0.02, 0.05, 0.05, 0.10, 0.12 ]
+const firstBuyer = [ 0, 0, 0, 0.05, 0.10, 0.12 ]
+const secBuyer = [ 0.03, 0.05, 0.08, 0.08, 0.13, 0.15 ]
+const taxBand = [ 0, 125000, 250000, 300000, 925000, 1500000, Infinity ]
 const firstBuyerThreshold = 500000
 
 /**
